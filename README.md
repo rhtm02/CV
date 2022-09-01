@@ -2,4 +2,4 @@
 Curriculum Vitae
 
 
-![link](./CV.pdf)
+[link](./CV.pdf)
