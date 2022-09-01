@@ -1,5 +1,4 @@
-# CV
-Curriculum Vitae
+# Hyunjun Lee
 
 
-[link](./CV.pdf)
+[Curriculum Vitae](./CV.pdf)
